@@ -1,3 +1,4 @@
+google.com, pub-8094258147209264, DIRECT, f08c47fec0942fa0
 applovin.com, 7bbdd04755a85d75b9717aa707d6b762, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com, 562615, RESELLER, 89ff185a4c4e857c
@@ -30,7 +31,6 @@ video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
-google.com, pub-8094258147209264, DIRECT, f08c47fec0942fa0
 mintegral.com, 46274, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
